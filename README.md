@@ -1,6 +1,6 @@
 # Research-Paper-Downloader
 
-in this tiny python script you will be able to download research papers from the internet 
+In this tiny python script you will be able to download research papers from the internet 
 (specificly from www.ijsrp.org site)... in a pdf format that you can view and read.
 <br> 
 This project was intended to use for downloading you desired research paper for those who want to deal with acquiring lot of papers
